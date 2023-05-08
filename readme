@@ -1,0 +1,18 @@
+// Ecommerce App graphQL
+
+// 1. create folder e-commerce-app
+// 2. access the e-commerce-app
+// 3. npm init -y
+// 4. npm install apollo-server graphql
+// 5. create index.js in the root directory
+
+// // index.js
+
+// const { ApolloServer } = require("apollo-server");
+// const server = new ApolloServer();
+
+// server.listen().then(({ url }) => {
+// console.log("Server is ready at" + url);
+// });
+
+// 6.
